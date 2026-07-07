@@ -1,0 +1,40 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "Record Store Wantlist Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "1001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Priority ranking and found-item history log",
+              "displayName": "Record Store Wantlist Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "wantlistkeeper.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Record Store Wantlist Pro Monthly",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
